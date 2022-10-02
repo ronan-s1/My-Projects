@@ -6,6 +6,8 @@ This is a list of my projects and programs I have created throughout my journey 
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
 - [ID Card Authorisation Program](https://github.com/ronan-s1/ID-Card-Authorisation)
 - [Weather Bot++](https://github.com/ronan-s1/Weather-Bot)(currently down)
+- [Eucilids Algorithim Calculator](https://gist.github.com/ronan-s1/22843982f20232e00c31a425b3321d56)
+- [CSV Combiner Program](https://gist.github.com/ronan-s1/ce7119fb781bc16a1c3f61c45dccefc4)
 
 
 ## Java
