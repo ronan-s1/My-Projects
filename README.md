@@ -1,4 +1,4 @@
-# Hey there!
+# Hey there👋
 
 This is a list of my projects and programs I have created throughout my journey so far. Please take a look!
 
