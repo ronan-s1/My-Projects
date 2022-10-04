@@ -21,5 +21,8 @@ This is a list of some projects I have developed throughout my journey so far. P
 - [Hang Man Game](https://github.com/ronan-s1/hangman-game-JS)
 - [List Application](https://github.com/ronan-s1/Shopping-List-Application)
 
+## C
+- [Input Validation Gist](https://gist.github.com/ronan-s1/6736559e993aaf7e639a8415add9f8b5)
+
 
 
