@@ -23,6 +23,7 @@ This is a list of some projects I have developed throughout my journey so far. P
 
 ## C
 - [Input Validation Gist](https://gist.github.com/ronan-s1/6736559e993aaf7e639a8415add9f8b5)
+- [Code Security Authenitication](https://github.com/ronan-s1/Code-Security-Authenitication)
 
 
 
