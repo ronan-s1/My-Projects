@@ -26,5 +26,5 @@ This is a list of some projects I have developed throughout my journey so far. P
 - [Code Security Authenitication](https://github.com/ronan-s1/Code-Security-Authenitication)
 
 ## SQL / Databases
-[Relational Creche Database](https://github.com/ronan-s1/Relational-Creche-Database)
+- [Relational Creche Database](https://github.com/ronan-s1/Relational-Creche-Database)
 
