@@ -27,6 +27,6 @@ This is a list of some projects I have developed throughout my journey so far. P
 
 ## SQL / Databases
 - [Relational Creche Database](https://github.com/ronan-s1/Relational-Creche-Database)
-- [Diamond Prices MongoDB]https://github.com/ronan-s1/Diamond-Prices-MongoDB)## Python
+- [Diamond Prices MongoDB](https://github.com/ronan-s1/Diamond-Prices-MongoDB)
 
 
