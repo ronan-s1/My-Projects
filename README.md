@@ -1,5 +1,5 @@
 # Hey there👋
-This is a list of some projects I have developed throughout my journey so far. Please take a look!
+This is a list of some projects/gists I have developed throughout my journey so far. Feel free to take a look!
 
 ## Python
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
