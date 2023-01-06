@@ -11,7 +11,7 @@ This is a list of some projects/gists I have developed throughout my journey so 
 
 ## Java
 - [Music Visualization Project](https://github.com/ronan-s1/Music-Visualization-Project)
-
+- [Music Visualization Project](https://github.com/ronan-s1/Find-It)
 
 ## Web Development
 - [Skillko Wesbite](https://about.skillko.com/)
