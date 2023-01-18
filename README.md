@@ -1,5 +1,5 @@
 # Hey there👋
-Some projects I've done...
+Here are some projects I've done...
 
 <details><summary><h3>Python<h3></summary>
 
