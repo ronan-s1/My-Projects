@@ -1,6 +1,14 @@
 # Hey there👋
 This is a list of some projects/gists I have developed throughout my journey so far. Feel free to take a look!
 
+<details><summary>Python</summary>
+
+- [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
+- [ID Card Authorisation Program](https://github.com/ronan-s1/ID-Card-Authorisation)
+- [Weather Bot++](https://github.com/ronan-s1/Weather-Bot) (currently down 😢)
+
+</details>
+
 ## Python
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
 - [ID Card Authorisation Program](https://github.com/ronan-s1/ID-Card-Authorisation)
