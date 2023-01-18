@@ -5,7 +5,7 @@ Here are some projects I've done...
 
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
 - [ID Card Authorisation Program](https://github.com/ronan-s1/ID-Card-Authorisation)
-- [Multi-Layer-Neural-Networks](https://github.com/ronan-s1/Multi-Layer-Neural-Networks)
+- [Multi Layer Neural Networks](https://github.com/ronan-s1/Multi-Layer-Neural-Networks)
 - [Weather Bot++](https://github.com/ronan-s1/Weather-Bot) (currently down 😢)
   
 
