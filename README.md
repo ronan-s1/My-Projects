@@ -1,7 +1,7 @@
 # Hey there👋
 Here are some projects I've done...
 
-<details><summary><h3>Python<h3></summary>
+<details><summary><h3>Python <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><h3></summary>
 
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
 - [ID Card Authorisation Program](https://github.com/ronan-s1/ID-Card-Authorisation)
