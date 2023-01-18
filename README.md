@@ -50,12 +50,10 @@ This is a list of some projects/gists I have developed throughout my journey so 
 
 <hr>
 
-<details><summary><h3>SQL / Databases<h3></summary>
+<details><summary><h3>Gists<h3></summary>
 
 - [Eucilids Algorithim Calculator](https://gist.github.com/ronan-s1/22843982f20232e00c31a425b3321d56)
 - [CSV Combiner Program](https://gist.github.com/ronan-s1/ce7119fb781bc16a1c3f61c45dccefc4)
 - [Input Validation Gist](https://gist.github.com/ronan-s1/6736559e993aaf7e639a8415add9f8b5)
 
 </details>
-
-
