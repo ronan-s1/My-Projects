@@ -1,5 +1,5 @@
 # Hey there👋
-This is a list of some projects/gists I have developed throughout my journey so far. Feel free to take a look!
+Some projects I've done...
 
 <details><summary><h3>Python<h3></summary>
 
