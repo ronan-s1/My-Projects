@@ -14,7 +14,7 @@ Here are some projects I've done...
 <hr>
   
 <details><summary><h3>Java<h3></summary>
-
+- [Team Management System](https://github.com/ronan-s1/Team-Management-System)
 - [Music Visualization Project](https://github.com/ronan-s1/Music-Visualization-Project)
 - [FindIt! A Lost and Found app](https://github.com/ronan-s1/Find-It)
 
