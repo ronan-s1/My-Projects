@@ -27,7 +27,6 @@ Here are some projects I've done...
 <details><summary><h3>Web Development<h3></summary>
 
 - [Skillko Wesbite](https://about.skillko.com/)
-- [Soham Yoga Therapies Website](https://www.sohamyogatherapies.com/)
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
 - [Library Management System CRUD Application](https://github.com/ronan-s1/Library-Management-System-CRUD-app)
 - [Hang Man Game](https://github.com/ronan-s1/hangman-game-JS)
