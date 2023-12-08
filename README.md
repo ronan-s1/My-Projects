@@ -3,6 +3,7 @@ Here are some projects I've done...
 
 <details><summary><h3>Python<h3></summary>
 
+- [SaleSights](https://github.com/ronan-s1/SaleSights) (WIP)
 - [Sentiment Analysis Application](https://github.com/ronan-s1/Django-Sentiment-Analysis-Application)
 - [ID Card Authorisation Program](https://github.com/ronan-s1/ID-Card-Authorisation)
 - [Multi Layer Neural Networks](https://github.com/ronan-s1/Multi-Layer-Neural-Networks)
