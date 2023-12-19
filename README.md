@@ -10,6 +10,8 @@ Here are some projects I've done...
 - [Anonalyse GPT](https://github.com/ronan-s1/Anonalyse-GPT)
 - [Anonymise Script](https://github.com/ronan-s1/Anonymise-Script)
 - [Weather Bot++](https://github.com/ronan-s1/Weather-Bot) (currently down 😢)
+- [Buyer Seller System](https://github.com/ronan-s1/buyer_seller_system)
+- [GeoDjango PWA Landmark Application](https://github.com/ronan-s1/geojango_tutorial)
   
 </details>
 
