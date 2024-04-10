@@ -9,7 +9,6 @@ Here are some projects I've done...
 - [Multi Layer Neural Networks](https://github.com/ronan-s1/Multi-Layer-Neural-Networks)
 - [Anonalyse GPT](https://github.com/ronan-s1/Anonalyse-GPT)
 - [Anonymise Script](https://github.com/ronan-s1/Anonymise-Script)
-- [Weather Bot++](https://github.com/ronan-s1/Weather-Bot) (currently down 😢)
 - [Buyer Seller System](https://github.com/ronan-s1/buyer_seller_system)
 - [GeoDjango PWA Landmark Application](https://github.com/ronan-s1/geojango_tutorial)
   
@@ -33,6 +32,8 @@ Here are some projects I've done...
 - [Library Management System CRUD Application](https://github.com/ronan-s1/Library-Management-System-CRUD-app)
 - [Hang Man Game](https://github.com/ronan-s1/hangman-game-JS)
 - [List Application](https://github.com/ronan-s1/Shopping-List-Application)
+- [GeoDjango PWA Landmark Application](https://github.com/ronan-s1/geojango_tutorial)
+- [SaleSights](https://github.com/ronan-s1/SaleSights) (WIP)
 
 </details> 
 
@@ -50,6 +51,14 @@ Here are some projects I've done...
 
 - [Relational Creche Database](https://github.com/ronan-s1/Relational-Creche-Database)
 - [Diamond Prices MongoDB](https://github.com/ronan-s1/Diamond-Prices-MongoDB)
+
+</details>
+
+<hr>
+
+<details><summary><h3>LaTeX</h3></summary>
+
+- [TUD CS FYP Template](https://github.com/ronan-s1/TU-Dublin-CS-FYP-Template)
 
 </details>
 
